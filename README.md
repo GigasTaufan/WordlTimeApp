@@ -1,5 +1,7 @@
 # WordlTimeApp
 This is an app that could show the time from some countries
+I learnt this app from: [TheNetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+
 
 ## What it's look like?
 
